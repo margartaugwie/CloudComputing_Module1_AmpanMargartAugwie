@@ -1,0 +1,8 @@
+What is Cloud Computing?
+Cloud computing is the on-demand delivery of computing services including servers, storage, databases, networking, and software over the internet with pay-as-you-go pricing.
+Instead of purchasing, owning, and maintaining physical data centers and servers, users access technology resources from providers like Amazon Web Services (AWS), Microsoft Azure, or Google Cloud. 
+This model functions much like a public utility; just as you turn on a light and pay only for the electricity you consume, you can access massive amounts of computing power without needing to manage or 
+invest in the underlying physical hardware yourself. The primary advantage of this technology is the incredible flexibility and scalability it offers to businesses and individuals. Because resources are virtual, 
+users can scale their storage and processing power up or down instantly based on their current needs, ensuring they never pay for unused capacity. Additionally, cloud computing fosters global collaboration and
+data security, as files can be accessed from any device with an internet connection, and data is protected by the provider’s high-level security protocols and automated backup systems.
+This shift allows organizations to focus on innovation and growth rather than the complex logistics of IT maintenance.
